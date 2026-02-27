@@ -1,1 +1,2 @@
-# new-project
+	
+a repo to restructure my skills
